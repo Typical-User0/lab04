@@ -1,0 +1,9 @@
+/Users/george/Typical-User0/workspace/projects/lab03/hello_world_application/_build/CMakeFiles/hello_world.dir
+/Users/george/Typical-User0/workspace/projects/lab03/hello_world_application/_build/CMakeFiles/edit_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/hello_world_application/_build/CMakeFiles/rebuild_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/hello_world_application/_build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/Users/george/Typical-User0/workspace/projects/lab03/hello_world_application/_build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/hello_world_application/_build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/hello_world_application/_build/formatter_ex_lib/formatter_lib/CMakeFiles/formatter.dir
+/Users/george/Typical-User0/workspace/projects/lab03/hello_world_application/_build/formatter_ex_lib/formatter_lib/CMakeFiles/edit_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/hello_world_application/_build/formatter_ex_lib/formatter_lib/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/CMakeFiles/solver.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/CMakeFiles/edit_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/CMakeFiles/rebuild_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/formatter_ex_lib/subdir/CMakeFiles/formatter.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/formatter_ex_lib/subdir/CMakeFiles/edit_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/formatter_ex_lib/subdir/CMakeFiles/rebuild_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/solver_lib/CMakeFiles/solver_lib.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/solver_lib/CMakeFiles/edit_cache.dir
+/Users/george/Typical-User0/workspace/projects/lab03/solver_application/_build/solver_lib/CMakeFiles/rebuild_cache.dir
