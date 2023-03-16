@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/Typical-User0/lab04.svg?branch=main)](https://app.travis-ci.com/Typical-User0/lab04)
+[![Build status](https://ci.appveyor.com/api/projects/status/6bei6ufx53f6ngb5?svg=true)](https://ci.appveyor.com/project/Typical-User0/lab04-55712)
 ## Laboratory work IV
 
 Данная лабораторная работа посвещена изучению систем непрерывной интеграции на примере сервиса **Travis CI**
