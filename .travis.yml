@@ -11,8 +11,7 @@ addons:
     update: true
     packages:
       - cmake
-      - clang-14
-      - g++-12
+      - g++-7
 
 script:
   - cd hello_world_application
